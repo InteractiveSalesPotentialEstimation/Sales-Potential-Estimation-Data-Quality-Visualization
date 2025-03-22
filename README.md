@@ -1,4 +1,3 @@
-due to bugs the repo from the bibliography could not be adapted. here is a link to the repo
+"Due to technical issues, the repository from the bibliography couldn't be updated. However, you can access the project through the following link:
 
-
-Check out the project on GitHub: [Tool Consumption Analysis](https://github.com/johndoe/tool-consumption-analysis)
+Check out the project on GitHub: [Tool Consumption Analysis]([https://github.com/johndoe/tool-consumption-analysis](https://github.com/InteractiveSalesPotentialEstimation/ECML-Repo))
